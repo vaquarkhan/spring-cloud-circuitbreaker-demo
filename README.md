@@ -1,4 +1,4 @@
-# spring-cloud-circuitbreaker-demo
+# Spring-cloud-circuitbreaker-demo
 Samples demonstrating how to using Spring Cloud Circuitbreaker
 
 ## Circuit Breaker Pattern
@@ -38,4 +38,4 @@ The circuit breaker has three distinct states: Closed, Open, and Half-Open:
 - https://microservices.io/patterns/reliability/circuit-breaker.html
 - https://martinfowler.com/bliki/CircuitBreaker.html
 - https://techblog.constantcontact.com/software-development/circuit-breakers-and-microservices/
--
+- https://www.nginx.com/blog/introducing-the-nginx-microservices-reference-architecture/
